@@ -1,0 +1,8 @@
+{
+  "version": "1.7.0.2",
+  "notes": "Test update from GitHub: if you can read this, PW Studio downloaded and installed itself.",
+  "url": "",
+  "pack": "pw-studio-1.7.0.2.pwpack",
+  "minBuiltin": "1.7.0",
+  "released": "2026-10-12"
+}
