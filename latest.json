@@ -1,0 +1,8 @@
+{
+  "version": "1.8.7",
+  "notes": "Multicam → Review & swap gets a big upgrade. Scrub frame-by-frame with ← →  and jump cut-to-cut with ↑ ↓. New \"Split here\" (X or Ctrl+K) cuts a shot at the playhead into two independent shots you can re-cut separately. New \"Flag\" (C) marks a shot to come back to by colouring that clip on the timeline — it stays glued to the footage (no marker to drift when you ripple-delete), and each flag is filed in a \"PW Flags\" bin. And a new \"Flags\" list shows every flagged clip — click one to jump straight to it; it re-reads the timeline each time so the positions follow your ripple edits. Set the clip colour + label in Settings → Flag for review. Fixed: pressing camera keys 1-2-3 quickly no longer crashes Premiere (swaps are queued safely), and the Studio spacebar now releases cleanly so Premiere's own spacebar stops playback. Save / Load state restores the planned cut reliably.",
+  "url": "",
+  "pack": "pw-studio-1.8.7.pwpack",
+  "minBuiltin": "1.8.0",
+  "released": "2026-10-22"
+}
