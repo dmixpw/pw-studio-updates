@@ -1,8 +1,8 @@
 {
-  "version": "1.8.7",
-  "notes": "Multicam → Review & swap gets a big upgrade. Scrub frame-by-frame with ← →  and jump cut-to-cut with ↑ ↓. New \"Split here\" (X or Ctrl+K) cuts a shot at the playhead into two independent shots you can re-cut separately. New \"Flag\" (C) marks a shot to come back to by colouring that clip on the timeline — it stays glued to the footage (no marker to drift when you ripple-delete), and each flag is filed in a \"PW Flags\" bin. And a new \"Flags\" list shows every flagged clip — click one to jump straight to it; it re-reads the timeline each time so the positions follow your ripple edits. Set the clip colour + label in Settings → Flag for review. Fixed: pressing camera keys 1-2-3 quickly no longer crashes Premiere (swaps are queued safely), and the Studio spacebar now releases cleanly so Premiere's own spacebar stops playback. Save / Load state restores the planned cut reliably.",
+  "version": "1.8.9",
+  "notes": "Sound now actually plays in Review & swap — press Play (or Space) and you HEAR the cut, not just see it (the earlier build looked like it was playing but stayed silent; that's fixed). It plays through the panel, so watch for sound in your headphones/speakers rather than Premiere's meters. It plays the real mic under the playhead, so a cross-camera audio override is audible too. Audio override: in Settings → Cutting, each camera has an \"Audio from\" mic (default its own) — if a camera's mic is dead, point it at another camera and the whole cut uses that mic when that camera is shown; or override a single shot from the Audio dropdown in Review & swap. \"R\" reveals every other camera angle on the current shot (switched off) so you can hand-pick any angle while the cut stays put. The Voices list folds away to save space. Fixed earlier: shuffling cameras quickly (1-2-3) no longer crashes Premiere — every timeline edit is serialised and paced so Premiere never gets two or back-to-back edits at once.",
   "url": "",
-  "pack": "pw-studio-1.8.7.pwpack",
+  "pack": "pw-studio-1.8.9.pwpack",
   "minBuiltin": "1.8.0",
-  "released": "2026-10-22"
+  "released": "2026-10-23"
 }
