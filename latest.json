@@ -1,8 +1,8 @@
 {
-  "version": "1.8.9",
-  "notes": "Sound now actually plays in Review & swap — press Play (or Space) and you HEAR the cut, not just see it (the earlier build looked like it was playing but stayed silent; that's fixed). It plays through the panel, so watch for sound in your headphones/speakers rather than Premiere's meters. It plays the real mic under the playhead, so a cross-camera audio override is audible too. Audio override: in Settings → Cutting, each camera has an \"Audio from\" mic (default its own) — if a camera's mic is dead, point it at another camera and the whole cut uses that mic when that camera is shown; or override a single shot from the Audio dropdown in Review & swap. \"R\" reveals every other camera angle on the current shot (switched off) so you can hand-pick any angle while the cut stays put. The Voices list folds away to save space. Fixed earlier: shuffling cameras quickly (1-2-3) no longer crashes Premiere — every timeline edit is serialised and paced so Premiere never gets two or back-to-back edits at once.",
+  "version": "1.9.0",
+  "notes": "Review & swap gets a \"Coming Up\" workflow. Press E (or Pick) on the shots you want and they turn green and collect in a PW Picks bin; open Picks → Extract and PW Studio builds a new \"<sequence> — Coming Up\" multicam from just those shots, compressed back-to-back, with every camera stacked so 1–9 / R / X all work on the reel. You can set the Pick colour and label in Settings → Pick for Coming Up. Also in this build: pressing X (Split here) now cuts EVERY camera's video and audio at the playhead so the whole stack stays aligned for shuffle; pressing C (Flag) now colours the shot's audio as well as its video; the first Analyse now has a Cancel button; each flag in the Flags list has a note field for leaving yourself a reminder; and the tool now follows Premiere's active sequence — switch sequences and it re-points to the one you're looking at. Fixes: the Flags list no longer needs a Reveal first to show your flags, and on-screen messages now fade away quickly instead of lingering (hover a message to keep it up while you read).",
   "url": "",
-  "pack": "pw-studio-1.8.9.pwpack",
+  "pack": "pw-studio-1.9.0.pwpack",
   "minBuiltin": "1.8.0",
-  "released": "2026-10-23"
+  "released": "2026-10-26"
 }
