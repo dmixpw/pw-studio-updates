@@ -1,8 +1,8 @@
 {
-  "version": "1.0.21",
-  "notes": "Pick each line's big word: click a line, then a word under Big word (styles like Big + Small). Also: caption Size works with every style, with separate sizes for big and small words.",
+  "version": "1.0.22",
+  "notes": "Spelling: CuriousJr, Kartavya, maine, aaye, taiyari, ma'am, live/poll; lines you made get the new spelling. Words a line slider (live, keeps pauses). Merge lines / + Add line between lines. Clear text selection. Updates try mirrors when GitHub is slow.",
   "url": "",
-  "pack": "pw-captions-1.0.21.pwpack",
+  "pack": "pw-captions-1.0.22.pwpack",
   "minBuiltin": "1.0.11",
   "released": "2026-10-31"
 }
