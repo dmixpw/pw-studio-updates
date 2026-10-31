@@ -1,8 +1,8 @@
 {
-  "version": "1.9.3",
-  "notes": "YouTube \"prove it is not a bot\": PW Downloader now retries over IPv4/IPv6 by itself, and Settings → YouTube sign-in fixes it for flagged networks.",
+  "version": "1.0.22",
+  "notes": "Spelling: CuriousJr, Kartavya, maine, aaye, taiyari, ma'am, live/poll; lines you made get the new spelling. Words a line slider (live, keeps pauses). Merge lines / + Add line between lines. Clear text selection. Updates try mirrors when GitHub is slow.",
   "url": "",
-  "pack": "pw-downloader-1.9.3.pwpack",
-  "minBuiltin": "1.9.2",
+  "pack": "pw-captions-1.0.22.pwpack",
+  "minBuiltin": "1.0.11",
   "released": "2026-10-31"
 }
