@@ -1,8 +1,8 @@
 {
-  "version": "1.0.22",
-  "notes": "Spelling: CuriousJr, Kartavya, maine, aaye, taiyari, ma'am, live/poll; lines you made get the new spelling. Words a line slider (live, keeps pauses). Merge lines / + Add line between lines. Clear text selection. Updates try mirrors when GitHub is slow.",
+  "version": "1.0.23",
+  "notes": "The timeline follows the list: a fixed line (Enter), + Add line, Merge, Remove or Big word goes on by itself; Undo / Redo buttons take it back there too. Clear playhead line. The big word shows in the list.",
   "url": "",
-  "pack": "pw-captions-1.0.22.pwpack",
+  "pack": "pw-captions-1.0.23.pwpack",
   "minBuiltin": "1.0.11",
   "released": "2026-10-31"
 }
