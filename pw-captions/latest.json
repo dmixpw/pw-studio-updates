@@ -1,8 +1,8 @@
 {
-  "version": "1.0.23",
-  "notes": "The timeline follows the list: a fixed line (Enter), + Add line, Merge, Remove or Big word goes on by itself; Undo / Redo buttons take it back there too. Clear playhead line. The big word shows in the list.",
+  "version": "1.0.24",
+  "notes": "Drag a caption shorter (or longer) on the timeline: about 2 s later its words fit the new length, none cut off. Captions moved on the timeline (or by a ripple edit): the list follows.",
   "url": "",
-  "pack": "pw-captions-1.0.23.pwpack",
+  "pack": "pw-captions-1.0.24.pwpack",
   "minBuiltin": "1.0.11",
   "released": "2026-10-31"
 }
