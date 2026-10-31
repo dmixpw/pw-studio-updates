@@ -1,0 +1,8 @@
+{
+  "version": "1.9.3",
+  "notes": "YouTube \"prove it is not a bot\": PW Downloader now retries over IPv4/IPv6 by itself, and Settings → YouTube sign-in fixes it for flagged networks.",
+  "url": "",
+  "pack": "pw-downloader-1.9.3.pwpack",
+  "minBuiltin": "1.9.2",
+  "released": "2026-10-31"
+}
