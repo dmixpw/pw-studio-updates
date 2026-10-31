@@ -1,0 +1,8 @@
+{
+  "version": "1.0.19",
+  "notes": "One Captions screen: captions and titles together. All captions: Style, Highlight, Motion. Click a line to fix it or make it a title. Titles last as long as their line, in Title Case, with their own looks. ☆ My looks, Undo (Ctrl+Z), round burst.",
+  "url": "",
+  "pack": "pw-captions-1.0.19.pwpack",
+  "minBuiltin": "1.0.11",
+  "released": "2026-10-31"
+}
