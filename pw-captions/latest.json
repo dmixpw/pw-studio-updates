@@ -1,8 +1,8 @@
 {
-  "version": "1.1.0",
-  "notes": "Now also runs on Mac (Apple Silicon and Intel), using the Mac's own GPU for transcription. Nothing changes on Windows.",
+  "version": "1.1.3",
+  "notes": "Merge / Add line / Remove line wait for Update; titles fit their animation when trimmed; exits match the way in, with Override (exit, direction, ease) shown in the preview; speed graph like After Effects / Motion v4; captions leave only before a pause",
   "url": "",
-  "pack": "pw-captions-1.1.0.pwpack",
+  "pack": "pw-captions-1.1.3.pwpack",
   "minBuiltin": "1.0.11",
-  "released": "2026-11-02"
+  "released": "2026-11-03"
 }
