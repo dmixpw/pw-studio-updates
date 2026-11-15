@@ -1,8 +1,8 @@
 {
-  "version": "1.9.4",
-  "notes": "Long videos YouTube won't play in the panel (\"This video is unavailable\") now play anyway: PW Downloader fetches a small watch copy so you can mark pieces right there.",
+  "version": "1.9.7",
+  "notes": "Thumbnails on the player's bar now show in Premiere.",
   "url": "",
-  "pack": "pw-downloader-1.9.4.pwpack",
+  "pack": "pw-downloader-1.9.7.pwpack",
   "minBuiltin": "1.9.2",
   "released": "2026-11-15"
 }
