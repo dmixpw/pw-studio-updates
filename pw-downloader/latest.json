@@ -1,8 +1,8 @@
 {
-  "version": "1.9.3",
-  "notes": "YouTube \"prove it is not a bot\": PW Downloader now retries over IPv4/IPv6 by itself, and Settings → YouTube sign-in fixes it for flagged networks.",
+  "version": "1.9.4",
+  "notes": "Long videos YouTube won't play in the panel (\"This video is unavailable\") now play anyway: PW Downloader fetches a small watch copy so you can mark pieces right there.",
   "url": "",
-  "pack": "pw-downloader-1.9.3.pwpack",
+  "pack": "pw-downloader-1.9.4.pwpack",
   "minBuiltin": "1.9.2",
-  "released": "2026-10-31"
+  "released": "2026-11-15"
 }
