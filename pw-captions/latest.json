@@ -1,8 +1,8 @@
 {
-  "version": "1.1.6",
-  "notes": "Select clips, then Make captions or Make titles; place a typed title on selected clips; one style for all captions; knows what you deleted on the timeline; size and colour right under the text, resize in the preview; Accurate speech model; spelling fixes; Settings on one screen",
+  "version": "1.1.7",
+  "notes": "Captions: Case is now under Size & position, easy to find; an imported .srt keeps its own capitals (Aa, Title and aa no longer change them, only AA)",
   "url": "",
-  "pack": "pw-captions-1.1.6.pwpack",
+  "pack": "pw-captions-1.1.7.pwpack",
   "minBuiltin": "1.0.11",
-  "released": "2026-11-09"
+  "released": "2026-11-15"
 }
