@@ -1,8 +1,8 @@
 {
-  "version": "1.1.7",
-  "notes": "Captions: Case is now under Size & position, easy to find; an imported .srt keeps its own capitals (Aa, Title and aa no longer change them, only AA)",
+  "version": "1.1.8",
+  "notes": "Style one caption: Only this caption after a change; cleaner caption header. Titles: + for a new title, a spelling fix goes live with Enter, deleted titles marked. A typed title lands at the playhead. Merge next to a title fixed.",
   "url": "",
-  "pack": "pw-captions-1.1.7.pwpack",
+  "pack": "pw-captions-1.1.8.pwpack",
   "minBuiltin": "1.0.11",
-  "released": "2026-11-15"
+  "released": "2026-11-16"
 }
