@@ -1,8 +1,8 @@
 {
-  "version": "1.1.8",
-  "notes": "Style one caption: Only this caption after a change; cleaner caption header. Titles: + for a new title, a spelling fix goes live with Enter, deleted titles marked. A typed title lands at the playhead. Merge next to a title fixed.",
+  "version": "1.1.9",
+  "notes": "Captions stay on one track (also after another tool moves clips onto it). Shadow can be Premiere's own Drop Shadow. Preview: background (black, white, colour, picture) and zoom (Fit to 400%). Hex colour picker you can drag. Search in + Add.",
   "url": "",
-  "pack": "pw-captions-1.1.8.pwpack",
+  "pack": "pw-captions-1.1.9.pwpack",
   "minBuiltin": "1.0.11",
-  "released": "2026-11-16"
+  "released": "2026-11-17"
 }
