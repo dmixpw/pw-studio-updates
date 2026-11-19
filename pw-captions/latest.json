@@ -1,8 +1,8 @@
 {
-  "version": "1.1.9",
-  "notes": "Captions stay on one track (also after another tool moves clips onto it). Shadow can be Premiere's own Drop Shadow. Preview: background (black, white, colour, picture) and zoom (Fit to 400%). Hex colour picker you can drag. Search in + Add.",
+  "version": "1.1.10",
+  "notes": "Analyze audio takes the whole sequence (not a selected clip). Titles deleted while the panel was closed stay deleted; Suggest titles ignores them. Same spot for all titles is always there and moves the titles on the timeline at once.",
   "url": "",
-  "pack": "pw-captions-1.1.9.pwpack",
+  "pack": "pw-captions-1.1.10.pwpack",
   "minBuiltin": "1.0.11",
-  "released": "2026-11-17"
+  "released": "2026-11-19"
 }
