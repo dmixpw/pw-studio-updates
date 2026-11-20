@@ -1,8 +1,8 @@
 {
-  "version": "1.1.10",
-  "notes": "Analyze audio takes the whole sequence (not a selected clip). Titles deleted while the panel was closed stay deleted; Suggest titles ignores them. Same spot for all titles is always there and moves the titles on the timeline at once.",
+  "version": "1.1.11",
+  "notes": "Fonts: new fonts show up on their own, italic-only fonts are back, and the font menu has search. The right side is in sections (Look, Text, Position, Effects, Motion) and easier to read; the eye hides an effect without losing it.",
   "url": "",
-  "pack": "pw-captions-1.1.10.pwpack",
+  "pack": "pw-captions-1.1.11.pwpack",
   "minBuiltin": "1.0.11",
-  "released": "2026-11-19"
+  "released": "2026-11-20"
 }
